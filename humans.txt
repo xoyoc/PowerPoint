@@ -1,0 +1,27 @@
+/* TEAM */
+
+	Creador: Antonio Xoyoc Becerra Farias
+
+	Site: http://xoyoc.net
+
+	Location: Ciudad Lazaro Cardenas, Mexico.
+
+                                          
+						
+/* THANKS */
+
+	Name: Jonathan MirCha http://bextlan.com
+
+	Name: Mejorandol@ http://mejorando.la
+	
+	Name: Siempre agradezco a mis dos grandes inspiración L1 y L2
+                        
+/* SITE */
+
+	Last update: 2013/06/31 
+
+	Standards: HTML5, CSS3
+
+	Components: Responsive Design
+
+	Software: SublimeText2, Google Chrome
